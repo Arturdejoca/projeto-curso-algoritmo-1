@@ -7,4 +7,4 @@ function acaoBotao() {
         document.getElementById("paragrafo").innerText = "Resultado: " + (parseInt( valor01 ) + parseInt( valor02 ) )
         sairloop = prompt("Deseja sair? S/N")    
     }while(sairloop == "N")
-}
+} 

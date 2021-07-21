@@ -6,4 +6,4 @@ function acaoBotao() {
         fatorial = fatorial * contador
     }
     document.getElementById("paragrafo").innerText = "o fatorial de " + numero + " é: " + fatorial
-}
+} 
