@@ -19,4 +19,4 @@ function acaoBotao() {
     }
     console.log(resultado);
     document.getElementById("paragrafo").innerText = `resultado ${resultado}`
-}
+} 

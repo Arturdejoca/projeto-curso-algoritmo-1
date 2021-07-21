@@ -19,4 +19,4 @@ function acaoBotao() {
     }
 
 document.getElementById("paragrafo").innerText = resultado
-}
+} 

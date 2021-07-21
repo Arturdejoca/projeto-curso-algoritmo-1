@@ -10,5 +10,5 @@ function acaoBotao() {
         else
             document.getElementById("paragrafo").innerText = nome + " você é menor de idade!" 
         contador++   
-    }
+    } 
 }
